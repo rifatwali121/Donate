@@ -13,7 +13,7 @@ h1{
     text-align: center;
     font-size: 50px;
     
-    margin-top: 20%;
+    margin-top: 25%;
     color: rgb(48, 207, 17);
 }
 h2{
@@ -21,9 +21,10 @@ h2{
     font-size: 40px;
 }
 p{
-    color: rgb(114, 78, 78);
+    color: rgb(51, 47, 47);
     margin-left: 25%;
     margin-right: 25%;
+    margin-bottom: 35px;
 }
 section{
     display: flex;
@@ -37,7 +38,7 @@ section{
     font-weight: 700;
     color: white;
     text-align: center;
-    margin-bottom: 20px;
+    margin-top: 20px;
     
     /* color:white;
     padding: 10px 20px;
@@ -94,7 +95,7 @@ section{
 } */
 .donation{
     width: 100%;
-    height: 800px;
+    margin-top: 60px;
 }
 .other-amount{
     margin-top: 10px;
@@ -110,18 +111,32 @@ section{
     margin-left: 337px;
     nav-right: 337px;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 .fa-solid fa-whiskey-glass{
-    font-size: 70px;
+    margin-left: 70px;
 }
-.icon-item{
-    background-color: rgb(240, 234, 234);
+.icon-item1st{
+    background-color: #abd7dd;
     border: none;
     color: black;
-    padding: 30px 30px;
+    padding: 40px 36px;
     margin: 10px;
+    margin-left: 100px;
+    text-align: left;
+    
 }
 .third-section{
-     margin-left: 20%; 
-     margin-right: 20%;
+     /* margin-left: 20%; 
+     margin-right: 20%; */
 }
+.donation-plan{
+    margin-top: 70px;
+}
+.our-donation{
+    margin-top: 50px;
+}
+/* .extra-iteam{
+    margin: auto;
+} */
+
